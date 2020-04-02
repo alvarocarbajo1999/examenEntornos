@@ -19,6 +19,7 @@ public class prueba {
         } else {
             while (i < q) {
                 res = res + q;
+                i++;
             }
         }
         return res;
